@@ -1,0 +1,9 @@
+# Project exclude paths
+/myshop-commons/target/
+/myshop-commons-domain/target/
+/myshop-commons-dubbo/target/
+/myshop-commons-mapper/target/
+/myshop-service-user-api/target/
+/myshop-service-user-consumer/target/
+/myshop-service-user-provider/target/
+/myshop-static-backend/target/
